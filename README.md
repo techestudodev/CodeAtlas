@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Versão](https://img.shields.io/badge/versão-1.0-blue)
 ![PWA](https://img.shields.io/badge/tipo-PWA-informational)
-![Licença](https://img.shields.io/badge/licença-MIT-lightgrey)
+![Licença](https://img.shields.io/badge/licença-todos%20os%20direitos%20reservados-red)
 
 </div>
 
@@ -107,7 +107,7 @@ Este projeto é desenvolvido como parte do meu portfólio, com foco em resolver 
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT — veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+Todos os direitos reservados. Este código é disponibilizado publicamente para fins de portfólio, utilização (básica) e demonstração — não é permitido copiar, redistribuir, modificar ou reutilizar este projeto, total ou parcialmente, sem autorização prévia do autor. É permitida a utilização passiva do projeto, portanto que não haja plágio ou uso malicioso.
 
 ---
 
